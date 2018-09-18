@@ -23,7 +23,7 @@ To start the server, you can run:
 npm start
 ```
 
-The server should start at port 8080 (default). Navigate to http://localhost:8080 to see the demo.
+The server should start at port 8080 (default). Navigate to http://localhost:8080 to access the chatroom
 
 Under`index.js` that says `client.flushdb();` is used to flush the contents from the previous session. Uncomment it to flush the previous content.
 
